@@ -1,5 +1,7 @@
-<a align="center" href="https://uxplanet.org/using-loading-animation-on-websites-and-apps-examples-and-snippets-to-use-cab0097be9f1"><img src="https://cdn-images-1.medium.com/max/1600/1*CsJ05WEGfunYMLGfsT2sXA.gif"></a>
-<h3 align="center">It takes time</h3>
+<p align="center">
+  <a href="https://uxplanet.org/using-loading-animation-on-websites-and-apps-examples-and-snippets-to-use-cab0097be9f1"><img src="https://cdn-images-1.medium.com/max/1600/1*CsJ05WEGfunYMLGfsT2sXA.gif"></a>
+  <h3>It takes time</h3>
+</p>
 <!--
 ### Hi there 👋
 
