@@ -1,6 +1,9 @@
-### Hi there 👋
+<img src="https://retchhh.files.wordpress.com/2015/03/loading2.gif">
 
 <!--
+### Hi there 👋
+
+
 **ujjuboi/ujjuboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
