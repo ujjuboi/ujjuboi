@@ -1,4 +1,4 @@
-<img align="center" src="http://blog.vectornet.com.br/wp-content/uploads/2017/04/loading-bar.gif">
+<img align="center" src="http://gt3themes.com/wp-content/uploads/2016/02/loading.gif">
 <h3 align="center">It takes time</h3>
 <!--
 ### Hi there 👋
