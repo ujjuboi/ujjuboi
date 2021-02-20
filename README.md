@@ -1,4 +1,4 @@
-<img align="center" src="http://gt3themes.com/wp-content/uploads/2016/02/loading.gif">
+<img align="center" src="https://cdn-images-1.medium.com/max/1600/1*CsJ05WEGfunYMLGfsT2sXA.gif">
 <h3 align="center">It takes time</h3>
 <!--
 ### Hi there 👋
