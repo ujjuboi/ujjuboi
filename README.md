@@ -1,5 +1,5 @@
-<img src="https://retchhh.files.wordpress.com/2015/03/loading2.gif">
-
+<img align="center" src="http://blog.vectornet.com.br/wp-content/uploads/2017/04/loading-bar.gif">
+<h3 align="center">It takes time</h3>
 <!--
 ### Hi there 👋
 
